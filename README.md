@@ -1,6 +1,6 @@
 # To-Do_List
 
-Basit ama Çok Kullanışlı Bir Programdır
+Yapacağınız İşleri Yazabildiğiniz Basit Bir Program Örneğidir .
 
 ![image](https://github.com/QuartzzDev/To-Do_List/assets/69876083/4cab9a09-e77b-43ee-9ea6-25da02c50a3d)
 
